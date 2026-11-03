@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PhD project data and results (kept in OneDrive, not GitHub)
+data/
+results/
+*.fasta
+*.fa
+*.cif
+*.pdb
+*.tsv
+*.zip
